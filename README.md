@@ -1,1 +1,1 @@
-# craftpunk-modpack
+# Craftpunk Modpack (working title)
