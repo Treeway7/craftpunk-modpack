@@ -45,6 +45,11 @@ hash = "130ffcb310a5d51431fa7b5f9a54e664dae2ae8b0a24c7ac83556162e16ca4ad"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "5292e88c60d0ad957c9168d92d18475ab9f4eccf56137615e93c707c779a3910"
+metafile = true
+
+[[files]]
 file = "mods/entity-collision-fps-fix.pw.toml"
 hash = "f2bdada853b7968d2106949fcc1327dd0f445149a75c7e523f9d07c05d6d9fc0"
 metafile = true
