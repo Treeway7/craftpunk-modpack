@@ -1,0 +1,12 @@
+name = "Craftpunk Modpack"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5cebf4a8283c8d5d486935d5c11c2e213028fa26acdfd5aac640bd2e6da37e78"
+
+[versions]
+forge = "43.2.21"
+minecraft = "1.19.2"
