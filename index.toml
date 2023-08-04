@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "kubejs/data/minecraft/dimension/overworld.json"
+hash = "92d53afac67d513d4d1db9841cd8a50c1c4ffc5a8d7834c53f7d01105acd78a6"
+
+[[files]]
 file = "kubejs/server_scripts/leather_smelt.js"
 hash = "8bc5cb352e27754a1b223a34a921abab375bdf65827c5e327ad3eb9a31011925"
 
