@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "64617b0ceee4b76affbd25523c3f2f7db3549426acea98be4cf17b8a2e77d5f2"
+file = "kubejs/server_scripts/leather_smelt.js"
+hash = "8bc5cb352e27754a1b223a34a921abab375bdf65827c5e327ad3eb9a31011925"
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
