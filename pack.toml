@@ -1,12 +1,12 @@
-name = "Craftpunk Modpack"
+name = "Default Modpack 1.19.2 Fabric"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3ec1fc9e8e760dbb8d43d950f3329e887169457a4c07ab4f49245c231d99316d"
+hash = "3b24628ec5d498e3a7f0705932bc06db3aeb10c91e556ce853ef5e85b0e36746"
 
 [versions]
-forge = "43.2.21"
 minecraft = "1.19.2"
+quilt = "0.20.2"
