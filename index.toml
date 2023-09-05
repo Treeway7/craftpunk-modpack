@@ -9,6 +9,14 @@ file = "config/modernfix-mixins.properties"
 hash = "ca6807967642bf74f1d35fce7d79583559976ff7eced3fa1a54b2081805d3db0"
 
 [[files]]
+file = "config/ordinarytweaks.json"
+hash = "7455d7d7d90aaed47c206e29c3e07dd9c1e40d0cdcb288cd46c68ad97ceed02a"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "5a4a20592f5629055e88c3bcc42ba18911f60defa2efbeeafb9ae0945e39aefc"
+
+[[files]]
 file = "config/yosbr/config/ordinarytweaks.json"
 hash = "7455d7d7d90aaed47c206e29c3e07dd9c1e40d0cdcb288cd46c68ad97ceed02a"
 
@@ -315,3 +323,11 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "df9929f0a90f0c54a870ed182c0543ce579d07b84089d2fec6131917c53b5bab"
 metafile = true
+
+[[files]]
+file = "yosbr/config/ordinarytweaks.json"
+hash = "7455d7d7d90aaed47c206e29c3e07dd9c1e40d0cdcb288cd46c68ad97ceed02a"
+
+[[files]]
+file = "yosbr/config/sodium-options.json"
+hash = "5a4a20592f5629055e88c3bcc42ba18911f60defa2efbeeafb9ae0945e39aefc"
