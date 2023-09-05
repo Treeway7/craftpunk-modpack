@@ -1,13 +1,13 @@
 name = "Just Enough Professions (JEP)"
-filename = "JustEnoughProfessions-forge-1.19.2-2.0.2.jar"
+filename = "JustEnoughProfessions-fabric-1.19.2-2.0.2.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/kB56GtWA/versions/wxikKFiX/JustEnoughProfessions-fabric-1.19.2-2.0.2.jar"
 hash-format = "sha1"
-hash = "9e367c52189f188bec750e6596d29f81d1d8486e"
-mode = "metadata:curseforge"
+hash = "fd0680a436f485893eadb7e67e5217d1b8a61b1a"
 
 [update]
-[update.curseforge]
-file-id = 4427313
-project-id = 417645
+[update.modrinth]
+mod-id = "kB56GtWA"
+version = "wxikKFiX"
